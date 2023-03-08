@@ -499,6 +499,16 @@
             }
         ]
     },
+    "aw": {
+        "manifestLocation": "/apps/aw/fed-mods.json",
+        "modules": [
+            {
+                "id": "aw",
+                "module": "./RootApp",
+                "routes": ["/ansible/wisdom"]
+            }
+        ]
+    },
     "rhosak": {
         "manifestLocation": "/apps/rhosak/fed-mods.json",
         "modules": [

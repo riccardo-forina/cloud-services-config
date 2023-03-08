@@ -93,6 +93,18 @@
             ]
         },
         {
+            "title": "Ansible Wisdom",
+            "expandable": true,
+            "routes": [
+                {
+                    "appId": "aw",
+                    "title": "Manage seats",
+                    "href": "/ansible/wisdom/seats",
+                    "product": "Ansible Wisdom"
+                }
+            ]
+        },
+        {
             "title": "Documentation",
             "isExternal": true,
             "filterable": false,
